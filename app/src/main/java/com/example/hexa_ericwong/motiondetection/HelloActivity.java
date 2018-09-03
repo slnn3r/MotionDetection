@@ -1,5 +1,6 @@
 package com.example.hexa_ericwong.motiondetection;
 
+
 import android.content.Intent;
 import android.os.CountDownTimer;
 import android.support.v7.app.AppCompatActivity;
